@@ -1,0 +1,125 @@
+2015-10-06 00:09:40,888 [6] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 00:10:02,898 [7] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 00:14:34,820 [2] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 00:15:06,031 [7] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 00:29:43,186 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 07:37:32,451 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - null
+2015-10-06 07:38:05,046 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 08:00:21,684 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - Broken pipe
+2015-10-06 08:00:21,687 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - Broken pipe
+2015-10-06 08:43:19,207 [2] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 08:44:25,878 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 08:45:50,292 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 08:46:11,478 [4] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 08:55:33,707 [2] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 09:02:23,105 [7] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 09:03:46,081 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 09:41:48,879 [4] ERROR edu.upenn.cis.cis455.webserver.Worker - 
+2015-10-06 15:04:46,047 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 15:05:18,273 [8] ERROR edu.upenn.cis.cis455.webserver.Worker - null
+2015-10-06 16:19:05,691 [main] ERROR edu.upenn.cis.cis455.webserver.ThreadPooledServer - Address already in use
+2015-10-06 16:25:42,043 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 16:25:51,828 [4] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 16:35:11,309 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,334 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,335 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,326 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,353 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,353 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,465 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,472 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,501 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,503 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,511 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,539 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,580 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,589 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,590 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,585 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,590 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,591 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,656 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,693 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,695 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,710 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,710 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,717 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,810 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,810 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:11,811 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:12,128 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:12,129 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:12,132 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,342 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,372 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,372 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,379 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,519 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,557 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,557 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,557 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,692 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,693 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,693 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,693 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,919 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,931 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,932 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,935 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,932 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,936 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,936 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,936 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,989 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:29,998 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,039 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,040 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,040 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,042 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,042 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,045 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,075 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,088 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,089 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,089 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,157 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,184 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,185 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,187 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,436 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,480 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,480 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:35:30,481 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:09,744 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:09,746 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:09,746 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:09,965 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:09,965 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:09,965 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,124 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,141 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,141 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,536 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,570 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,571 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,786 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,870 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:11,871 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:12,039 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:12,053 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:12,064 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:13,095 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:13,118 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:56:13,119 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:13,638 [5] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:13,711 [9] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:13,677 [7] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:13,880 [8] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:14,026 [6] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:14,049 [0] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:14,109 [2] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:14,184 [3] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:14,316 [4] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 16:59:16,399 [1] ERROR edu.upenn.cis.cis455.webserver.Response - Broken pipe
+2015-10-06 17:09:51,470 [2] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-06 17:10:04,409 [Thread-0] ERROR edu.upenn.cis.cis455.webserver.ThreadPooledServer - Socket closed

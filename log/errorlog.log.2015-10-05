@@ -1,0 +1,8 @@
+2015-10-05 20:18:57,706 [main] ERROR edu.upenn.cis.cis455.webserver.HttpServer - For input string: "hgfhgf"
+2015-10-05 20:29:27,413 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - ajhsdgfjhagdjgwjhdgwjehdgjwhegj
+2015-10-05 21:52:20,395 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-05 21:55:03,811 [3] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-05 21:57:28,958 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-05 22:08:02,751 [1] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-05 23:51:11,945 [0] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
+2015-10-05 23:52:52,485 [6] ERROR edu.upenn.cis.cis455.webserver.Worker - File Not Found Error
